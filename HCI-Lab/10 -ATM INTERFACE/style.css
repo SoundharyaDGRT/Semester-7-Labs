@@ -1,0 +1,10 @@
+body {
+    background-color: #7ee8fa;
+    background-image: linear-gradient(315deg, #7ee8fa 0%, #80ff72 74%);
+}
+
+h1 {
+    font-size: 50px;
+    font-family: "Times New Roman", Times, serif;
+    text-shadow: white 2px 1px;
+}
